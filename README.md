@@ -4,6 +4,7 @@
 [!Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KruxKossel&show_icons=true&theme=tokyonight)
 
 ## Tecnologias e Ferramentas
+https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white
 [!C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 [!C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 [!Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
