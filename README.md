@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou a Ellen 👋
+!Imagem de Perfil
 
-<!--
-**KruxKossel/KruxKossel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estatísticas do GitHub
+!Estatísticas do GitHub
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
+!C
+!C#
+!Lua
+!Html5
+!Css
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
