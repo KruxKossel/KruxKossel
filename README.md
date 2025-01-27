@@ -3,7 +3,7 @@
 ## Sobre mim
 Sou uma desenvolvedora apaixonada por tecnologia, com formação em Análise e Desenvolvimento de Sistemas (ADS). Adoro aprender coisas novas e estou sempre em busca de desafios que me permitam crescer profissional e pessoalmente.
 
-## Habilidades
+##
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
