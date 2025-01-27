@@ -11,11 +11,11 @@ Sou uma desenvolvedora apaixonada por tecnologia, com formação em Análise e D
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-## Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KruxKossel&layout=compact&theme=dark)
+## Linguagens Mais Usadas e Estatísticas do GitHub
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KruxKossel&layout=compact&theme=dark) | ![Ellen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KruxKossel&show_icons=true&theme=dark) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## Contato
 [![Email](https://img.shields.io/badge/-ellenprof57@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ellenprof57@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellen-oliveira-931a5926b/)
-
-## ![Ellen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KruxKossel&show_icons=true&theme=dark)
