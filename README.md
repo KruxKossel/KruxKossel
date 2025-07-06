@@ -1,7 +1,7 @@
 <table align="center">
   <tr valign="middle">
     <td align="center" width="150">
-      <img src="woh.png" alt="Logo" width="100%"/>
+      <img src="icon.png" alt="Logo" width="100%"/>
     </td>
     <td align="left">
       <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&color=8B5CF6&vCenter=true&width=400&lines=Ellen+KOS.&repeat=false" alt="Ellen KOS."/>
