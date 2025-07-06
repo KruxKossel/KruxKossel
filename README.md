@@ -12,31 +12,26 @@
 
 
 
-<table>
-  <tr valign="top">
-    <td width="60%">
-      <h3>👩‍💻 Sobre Mim</h3>
-      <p>
-        Sou uma <b>Desenvolvedora FullStack</b> com uma base sólida em Análise e Desenvolvimento de Sistemas e, atualmente, estou aprofundando meus conhecimentos como estudante de <b>Segurança da Informação</b>. Minha paixão é unir o mundo do desenvolvimento com o da cibersegurança.
-      </p>
-      <p>
-        Tenho experiência prática construindo backends robustos com <b>Python</b> e <b>Node.js</b>, criando <b>APIs REST</b> e realizando o deploy de aplicações em nuvem (<b>Microsoft Azure</b>) com <b>Docker</b>. Meu foco atual é aplicar essas habilidades para resolver desafios em segurança, explorando áreas como <b>OSINT</b>, análise de vulnerabilidades e detecção de anomalias.
-      </p>
-      <p>
-        <a href="https://www.linkedin.com/in/ellen-oliveira-931a5926b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="mailto:ellenprof57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-        <a href="https://portifolio-ellen-kos.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio"/></a>
-      </p>
-    </td>
-    <td width="40%">
-      <p align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KruxKossel&show_icons=true&theme=transparent&border_color=8B5CF6&title_color=8B5CF6&text_color=F8FAFC&icon_color=C084FC&include_all_commits=true&count_private=true"/>
-        <br>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KruxKossel&layout=compact&theme=transparent&border_color=8B5CF6&title_color=8B5CF6&text_color=F8FAFC&langs_count=7"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<h3>👩‍💻 Sobre Mim</h3>
+<p>
+  Sou uma <b>Desenvolvedora FullStack</b> com uma base sólida em Análise e Desenvolvimento de Sistemas e, atualmente, estou aprofundando meus conhecimentos como estudante de <b>Segurança da Informação</b>. Minha paixão é unir o mundo do desenvolvimento com o da cibersegurança.
+</p>
+<p>
+  Tenho experiência prática construindo backends robustos com <b>Python</b> e <b>Node.js</b>, criando <b>APIs REST</b> e realizando o deploy de aplicações em nuvem (<b>Microsoft Azure</b>) com <b>Docker</b>. Meu foco atual é aplicar essas habilidades para resolver desafios em segurança, explorando áreas como <b>OSINT</b>, análise de vulnerabilidades e detecção de anomalias.
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/ellen-oliveira-931a5926b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ellenprof57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://portifolio-ellen-kos.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KruxKossel&show_icons=true&theme=transparent&border_color=8B5CF6&title_color=8B5CF6&text_color=F8FAFC&icon_color=C084FC&include_all_commits=true&count_private=true"/>
+  <br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KruxKossel&layout=compact&theme=transparent&border_color=8B5CF6&title_color=8B5CF6&text_color=F8FAFC&langs_count=7"/>
+</p>
 
 ---
 
@@ -137,5 +132,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KruxKossel&theme=dracula&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KruxKossel&theme=dracula&column=9" alt="GitHub Trophies"/>
 </p>
